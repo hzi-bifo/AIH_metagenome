@@ -1,0 +1,12 @@
+Observed	p-value: 6.3415e-06; [ANOVA] F-value: 14.996
+Observed	p-value: 6.4801e-05; [Kruskal-Wallis] statistic: 19.288
+Chao1	p-value: 5.3408e-06; [ANOVA] F-value: 15.262
+Chao1	p-value: 5.0919e-05; [Kruskal-Wallis] statistic: 19.771
+ACE	p-value: 4.589e-06; [ANOVA] F-value: 15.498
+ACE	p-value: 6.6864e-05; [Kruskal-Wallis] statistic: 19.226
+Shannon	p-value: 0.00030857; [ANOVA] F-value: 9.3971
+Shannon	p-value: 0.00027193; [Kruskal-Wallis] statistic: 16.42
+Simpson	p-value: 0.0024791; [ANOVA] F-value: 6.7047
+Simpson	p-value: 0.00049571; [Kruskal-Wallis] statistic: 15.219
+Fisher	p-value: 6.5141e-06; [ANOVA] F-value: 14.954
+Fisher	p-value: 4.6204e-05; [Kruskal-Wallis] statistic: 19.965
